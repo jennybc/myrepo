@@ -1,3 +1,7 @@
+foo.R
+================
+jenny
+2021-10-25
 
 When you click the **Knit** button a document will be generated that
 includes both content as well as the output of any embedded R code
@@ -19,4 +23,4 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![](foo_files/figure-gfm/pressure-1.png)<!-- -->
+![](foo_files/figure-gfm/r%20pressure-1.png)<!-- -->
